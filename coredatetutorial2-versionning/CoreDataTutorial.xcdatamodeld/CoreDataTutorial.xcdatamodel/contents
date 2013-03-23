@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1811" systemVersion="12A269" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Problem" representedClassName="Problem" syncable="YES">
+        <attribute name="level" attributeType="Integer 16" minValueString="0" maxValueString="5" defaultValueString="2" syncable="YES"/>
+        <attribute name="question" attributeType="String" syncable="YES"/>
+        <attribute name="solution" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="title" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Problem" positionX="900" positionY="-1746" width="128" height="103"/>
+    </elements>
+</model>
